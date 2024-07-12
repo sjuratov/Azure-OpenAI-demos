@@ -1,0 +1,5 @@
+*/.venv/
+.env
+Dall-E3/dalle3_products_images/
+Dall-E3/real_images/
+Dall-E3/artificial_images/
